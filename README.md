@@ -1,1 +1,1 @@
-#[More info ](https://opengateweb.com/posts/5-post/)
+#[More info ](https://opengateweb.com/blog/posts/5-post/)
